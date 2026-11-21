@@ -77,7 +77,7 @@
 <br><br>
 
 ---
-<img align="left" width="300" height="600" src="https://allwebs.ru/images/2026/03/18/3dbbd0bbaaa8438df937e8c6a98c3982.jpg"><br>
+<img align="left" width="300" height="460" src="https://allwebs.ru/images/2026/03/18/3dbbd0bbaaa8438df937e8c6a98c3982.jpg"><br>
 
 
 
